@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Fellow, Artificial Intelligence and Machine Learning Lab, School of Computer Science, Carleton University
 
 profile:
   align: right
