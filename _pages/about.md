@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, Artificial Intelligence and Machine Learning Lab, School of Computer Science, Carleton University
+subtitle: Postdoctoral Fellow, AI·ML Lab, School of Computer Science, Carleton University
 
 profile:
   align: right
