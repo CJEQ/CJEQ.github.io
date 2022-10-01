@@ -7,7 +7,7 @@ subtitle: Postdoctoral Fellow, AI·ML Lab, School of Computer Science, Carleton 
 profile:
   align: right
   image: linkln.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
