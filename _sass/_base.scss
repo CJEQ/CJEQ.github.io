@@ -527,7 +527,7 @@ footer.sticky-bottom {
           border-bottom: 1px solid;
           font-style: normal;
         }
-        /*> span.more-authors {
+        > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
@@ -535,9 +535,9 @@ footer.sticky-bottom {
               color: var(--global-text-color);
               border-bottom: 1px dashed var(--global-text-color);
           }
-        }*/
+        }
       }
-      /*.links {
+      .links {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
@@ -551,7 +551,7 @@ footer.sticky-bottom {
           }
         }
       }
-      /*.hidden {
+      .hidden {
         font-size: 0.875rem;
         max-height: 0px;
         overflow: hidden;
@@ -585,7 +585,7 @@ footer.sticky-bottom {
       }
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
-      }*/
+      }
     }
   }
 }
